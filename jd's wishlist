@@ -1931,7 +1931,6 @@ dimwishlist:item=471518543&perks=1392496348,106909392,3418782618,3824105627
 
 // PLUG ONE.1 (Adept) (god-pvp)
 //notes: #pvp #god #fallout
-
 mw: stability
 mod: adept charge time tags:god-pvp
 dimwishlist:item=534775659&perks=3661387068,3868766766,1645158859,1754714824
@@ -1944,7 +1943,6 @@ dimwishlist:item=534775659&perks=3661387068,1687452232,1645158859,1799762209
 
 // PLUG ONE.1 (Adept) (pvp)
 //notes: #pvp #fallout
-
 mw: stability
 mod: adept charge time tags:pvp
 dimwishlist:item=534775659&perks=4090651448,3868766766,1570042021,1754714824
@@ -2406,7 +2404,6 @@ dimwishlist:item=681067419&perks=4090651448,3230963543,3436462433,3824105627
 
 // Gnawing Hunger (god-pve)
 //notes: #pve #fallout
-
 mw: reload, stability tags:god-pve
 dimwishlist:item=821154603&perks=1482024992,1087426260,1820235745,3425386926
 dimwishlist:item=821154603&perks=1482024992,1087426260,1820235745,4082225868
@@ -2428,7 +2425,6 @@ dimwishlist:item=821154603&perks=1392496348,1087426260,3643424744,1015611457
 
 // Gnawing Hunger (god-pvp)
 //notes: #pvp #fallout
-
 mw: reload, stability tags:god-pvp
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,4082225868
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
@@ -4864,7 +4860,6 @@ dimwishlist:item=1402766122&perks=1482024992,679225683,2779035018,2360754333
 
 // The Palindrome (Adept) (god-pvp)
 //notes: #pvp #god #fallout
-
 mw: range, stability tags:god-pvp
 dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,2846385770
 
@@ -4879,7 +4874,6 @@ dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,3425386926
 
 // The Palindrome (Adept) (pvp)
 //notes: #pvp #fallout
-
 mw: stability, range tags:pvp
 dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,2726471870
 dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,2846385770
@@ -4952,21 +4946,18 @@ dimwishlist:item=1481892490&perks=1482024992,1885400500,1168162263,3425386926
 
 // Gridskipper (god-pvp)
 //notes: #pvp #god #fallout
-
 mw: range, stability tags:god-pvp
 dimwishlist:item=1621558458&perks=1482024992,1885400500,588594999,2726471870
 
 
 // Gridskipper (god-pvp)
 //notes: #pvp #god #fallout
-
 mw: range, stability tags:god-pvp
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2458213969
 
 
 // Gridskipper (pvp)
 //notes: #pvp #fallout
-
 mw: range, stability tags:pvp
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2726471870
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2458213969
@@ -5044,7 +5035,6 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,11612903
 
 // Gridskipper (pve)
 //notes: #pve
-
 mw: range, stability tags:pve
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2726471870
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2458213969
@@ -5122,7 +5112,6 @@ dimwishlist:item=1621558458&perks=3250034553,1561002382,1570042021,4104185692
 
 // Stars in Shadow (pvp)
 //notes: #pvp #fallout
-
 mw: range, stability tags:pvp
 dimwishlist:item=2050789284&perks=1482024992,106909392,2450788523,588594999
 dimwishlist:item=2050789284&perks=1482024992,106909392,2450788523,1015611457
@@ -5152,7 +5141,6 @@ dimwishlist:item=2050789284&perks=839105230,3230963543,3436462433,1015611457
 
 // Stars in Shadow (pve)
 //notes: #pve #fallout
-
 mw: range, stability tags:pve
 dimwishlist:item=2050789284&perks=1482024992,106909392,2779035018,2726471870
 dimwishlist:item=2050789284&perks=1482024992,106909392,2779035018,1683379515
@@ -5547,7 +5535,6 @@ dimwishlist:item=2164448701&perks=839105230,106909392,280464955,247725512
 
 // Fatebringer (pvp)
 //notes: #pvp #fallout
-
 mw: range, handling tags:pvp
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2450788523,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2450788523,47981717
@@ -5577,7 +5564,6 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,47981717
 
 // Fatebringer (pve)
 //notes: #pve #fallout
-
 mw: handling, reload tags:pve
 dimwishlist:item=2171478765&perks=4090651448,1087426260,3038247973,4104185692
 dimwishlist:item=2171478765&perks=4090651448,1087426260,3038247973,1015611457
@@ -5655,7 +5641,6 @@ dimwishlist:item=2171478765&perks=1482024992,2420895100,2726471870,3824105627
 
 // Fatebringer (Timelost) (pvp)
 //notes: #pvp #fallout
-
 mw: range, handling tags:pvp
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2450788523,1015611457
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2450788523,47981717
@@ -5685,7 +5670,6 @@ dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,47981717
 
 // Fatebringer (Timelost) (pve)
 //notes: #pve #fallout
-
 mw: handling, reload tags:pve
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3038247973,4104185692
 dimwishlist:item=1216319404&perks=4090651448,1087426260,3038247973,1015611457
@@ -5763,14 +5747,12 @@ dimwishlist:item=1216319404&perks=1482024992,2420895100,2726471870,3824105627
 
 // Lonesome (god-pvp)
 //notes: #pvp #god #fallout
-
 mw: range, stability tags:god-pvp
 dimwishlist:item=2199171672&perks=1482024992,1885400500,4267945040,1015611457
 
 
 // The Steady Hand (pvp)
 //notes: #pvp #fallout
-
 mw: range, stability tags:pvp
 dimwishlist:item=2220884262&perks=1926090095,1885400500,588594999,4082225868
 dimwishlist:item=2220884262&perks=1926090095,1885400500,588594999,4152709778
@@ -5788,7 +5770,6 @@ dimwishlist:item=2220884262&perks=1926090094,1885400500,2450788523,4152709778
 
 // The Steady Hand (pve)
 //notes: #pve
-
 mw: range, stability, reload tags:pve
 dimwishlist:item=2220884262&perks=1926090095,1561002382,588594999,4082225868
 dimwishlist:item=2220884262&perks=1926090095,1561002382,588594999,3592538738
@@ -6101,7 +6082,6 @@ dimwishlist:item=2990047042&perks=1482024992,2420895100,588594999,957782887
 
 // Memory Interdict (pve)
 //notes: #jd #pve
-
 chain reaction god roll tags:pve
 dimwishlist:item=3165547384&perks=1478423395,1380253176,2284787283,2396489472
 dimwishlist:item=3165547384&perks=1478423395,1380253176,3300816228,2396489472
@@ -6127,7 +6107,6 @@ dimwishlist:item=3165547384&perks=1441682018,3301904089,706527188,2396489472
 
 // Memory Interdict (pve)
 //notes: #jd #pve
-
 crowd clearing tags:pve
 dimwishlist:item=3165547384&perks=1478423395,3301904089,2284787283,1683379515
 dimwishlist:item=3165547384&perks=1478423395,3301904089,2284787283,3592538738
@@ -6493,7 +6472,6 @@ dimwishlist:item=3165547384&perks=1844523823,2985827016,706527188,2396489472
 
 // Memory Interdict (pve)
 //notes: #jd #pve
-
 single-target shield break tags:pve
 dimwishlist:item=3165547384&perks=3809316345,3301904089,2284787283,1683379515
 dimwishlist:item=3165547384&perks=3809316345,3301904089,3300816228,1683379515
@@ -7116,7 +7094,6 @@ dimwishlist:item=3813153080&perks=1926090094,1561002382,1570042021,2458213969
 
 // Finite Impactor (pvp)
 //notes: #pvp
-
 move fast tags:pvp
 dimwishlist:item=3813153080&perks=1926090092,1885400500,2450788523,3511092054
 dimwishlist:item=3813153080&perks=1926090092,1087426260,2450788523,3511092054
