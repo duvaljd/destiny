@@ -1,6 +1,25 @@
 title:jd's wishlist
 description:rolls gathered from around the internets
 
+// Cartesian Coordinate ()
+//notes: PvE
+dimwishlist:item=2481881293&perks=689005463,2779035018,2726471870
+dimwishlist:item=2481881293&perks=2680121939,2779035018,2726471870
+
+
+// Cartesian Coordinate ()
+//notes: PvE
+dimwishlist:item=2481881293&perks=2680121939,1645158859,1546637391
+dimwishlist:item=2481881293&perks=689005463,1645158859,1546637391
+
+
+// Cartesian Coordinate ()
+//notes: PvP
+dimwishlist:item=2481881293&perks=689005463,1645158859,2213355989
+dimwishlist:item=2481881293&perks=689005463,1645158859,4082225868
+dimwishlist:item=2481881293&perks=3868766766,1645158859,2213355989
+dimwishlist:item=2481881293&perks=3868766766,1645158859,4082225868
+
 
 // Blasphemer ()
 //notes: PvP godroll
